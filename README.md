@@ -55,7 +55,7 @@ pip install pandas matplotlib seaborn numpy scikit-learn keras
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/churn-modeling.git
+git clone https://github.com/dineshghadge2002/Churn_Modeling_ANN.git
 cd churn-modeling
 ```
 
@@ -65,5 +65,5 @@ cd churn-modeling
 
 ## Requirements
 
-- Python 3.x
+- Python 3.1
 - Libraries: pandas, matplotlib, seaborn, numpy, scikit-learn, keras
